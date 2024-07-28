@@ -19,7 +19,7 @@ h1 align="center">Hi 👋, I'm Mohd Hashir</h1>
 - Tools: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashir-mohd&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashir-mohd&show_icons=true&theme=radical)
 
 ## 🔝 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-mohd&layout=compact&theme=radical&langs_count=8&hide=less,scss)
@@ -31,7 +31,7 @@ h1 align="center">Hi 👋, I'm Mohd Hashir</h1>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hashir-mohd&theme=radical)
 
 ## 📈 Contribution Graph
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=hashir-mohd&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hashir-mohd&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-hashir)
