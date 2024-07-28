@@ -22,10 +22,6 @@ I'm a computer science student in B.Tech 2nd year.
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hashir-mohd&theme=radical)
 
-## 🎨 Projects
-- [Project 1](https://github.com/hashir-mohd/project1): A brief description of what Project 1 does.
-- [Project 2](https://github.com/hashir-mohd/project2): A brief description of what Project 2 does.
-
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hashir-mohd&theme=radical)
 
