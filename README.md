@@ -1,11 +1,15 @@
-# Hi there, I'm Hashir 👋
+h1 align="center">Hi 👋, I'm Mohd Hashir</h1>
+<h3 align="center">A Passionate Computer Science Student 🚀</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hashir-mohd&color=blueviolet)
+<p align="center">
+  <a href="mailto:esport.py.m45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-esport.py.m45@gmail.com-blue?logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/mohd-hashir">
+    <img src="https://img.shields.io/badge/LinkedIn-razahmadrsofficial-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-## 🚀 About Me
-I'm a computer science student in B.Tech 2nd year.
-
-- 📫 How to reach me: esport.py.m45@gmail.com
 
 
 ## 🛠 Skills
