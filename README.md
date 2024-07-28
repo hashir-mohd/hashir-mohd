@@ -6,7 +6,7 @@ h1 align="center">Hi 👋, I'm Mohd Hashir</h1>
     <img src="https://img.shields.io/badge/Email-esport.py.m45@gmail.com-blue?logo=gmail" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/mohd-hashir">
-    <img src="https://img.shields.io/badge/LinkedIn-razahmadrsofficial-blue?logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohd-Hashir-green?logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
