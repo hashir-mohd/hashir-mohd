@@ -7,6 +7,7 @@ h1 align="center">Hi 👋, I'm Mohd Hashir</h1>
   </a>
   <a href="https://linkedin.com/in/mohd-hashir">
     <img src="https://img.shields.io/badge/LinkedIn-mohd-hashir-blue?logo=linkedin" alt="LinkedIn" />
+
   </a>
 </p>
 
