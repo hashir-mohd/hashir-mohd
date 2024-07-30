@@ -30,22 +30,10 @@
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashir-mohd&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<h2 align="center">🔝 Top Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-mohd&layout=compact&theme=radical&langs_count=8&hide=less,scss" alt="Top Languages" />
-</p>
-
-<h2 align="center">🔥 Streak Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashir-mohd&theme=radical" alt="GitHub Streak" />
-</p>
-
-<h2 align="center">🏆 Achievements</h2>
-<p align="center">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hashir-mohd&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-mohd&layout=compact&theme=radical&langs_count=8&hide=less,scss" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashir-mohd&theme=radical" alt="GitHub Streak" width="100%" height="250"/>
   <img src="https://github-profile-trophy.vercel.app/?username=hashir-mohd&theme=radical" alt="GitHub Trophies" />
 </p>
 
